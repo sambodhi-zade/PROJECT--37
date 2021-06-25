@@ -20,7 +20,7 @@ function preload(){
   washroomImg = loadImage("Wash Room.png");
   sleepImg = loadImage("Lazy.png");
   runImg = loadImage("running.png");
-  hungryDog = loadImage("images/dogImg1.png");   
+  hungryDog = loadImage("dogImg1.png");   
   livingRoom=loadImage("Living Room.png");
 }
 
